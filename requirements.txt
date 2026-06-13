@@ -1,0 +1,34 @@
+# PDF Processing
+pymupdf
+
+# OCR
+easyocr
+pillow
+
+# LangChain
+langchain
+langchain-community
+langchain-core
+
+# Embeddings
+sentence-transformers
+
+# Vector Database
+faiss-cpu
+
+# LLM
+groq
+
+# Environment Variables
+python-dotenv
+
+# Frontend
+streamlit
+
+# ML Dependencies
+torch
+transformers
+
+# Data Handling
+numpy
+pandas
