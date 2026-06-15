@@ -9,6 +9,7 @@ pillow
 langchain
 langchain-community
 langchain-core
+langchain-huggingface
 
 # Embeddings
 sentence-transformers
